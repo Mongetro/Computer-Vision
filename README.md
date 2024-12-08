@@ -1,4 +1,4 @@
-# Computer-Vision
+# Computer-Vision : Détection de la peau humaine
 
 Ce projet a été réalisé dans le cadre du cours de vision par ordinateur, au master en Systèmes Intelligents et Multimédia à l'Institut Francophone Internationale / Université Nationale du Vietnam.
 
